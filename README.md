@@ -10,4 +10,4 @@ This project was developed as an early initiative prior to the formation of our 
 
 ## Repository
 For full details, implementation, and source code, visit:  
-🔗 https://github.com/Jian-blue/RedCell-Blood_Bank_Management_System
+🔗 https://github.com/Jian-blue/Project-RedCell
